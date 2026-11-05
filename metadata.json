@@ -1,0 +1,8 @@
+{
+  "name": "Remix YatriSync - Train-to-Bus Connectivity Platform",
+  "description": "Intelligent train-to-bus coordination platform connecting railway passengers arriving in Mysuru with onward bus transportation through smart pooling, operator bus allocation, and journey recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
