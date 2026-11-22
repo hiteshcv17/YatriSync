@@ -1,0 +1,6 @@
+Train Number,Train Name,Arrival Time,Origin Station,Destination Station,Service Type
+20607,Vande Bharat Express,12:20 PM,MGR Chennai Central (MAS),Mysuru Junction (MYS),High-Speed
+12007,Shatabdi Express,01:00 PM,MGR Chennai Central (MAS),Mysuru Junction (MYS),Premium Express
+17308,Basava Express,11:15 AM,Bagalkot (BGK),Mysuru Junction (MYS),Express
+12613,Wodeyar SF Express,11:30 AM (Departure),Mysuru Junction (MYS),KSR Bengaluru (SBC),Superfast Express
+-,KSR Bengaluru - Mysuru MEMU / Express,Various (2-3 hr duration),KSR Bengaluru (SBC),Mysuru Junction (MYS),Regional / Commuter
