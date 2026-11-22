@@ -1,0 +1,15 @@
+Route_ID,Route_Type,Source,Destination,Major_Stops,Frequency_Type
+1 Series (1-19),Corridor / Suburb Connection,City Bus Stand (CBS),"Metaghalli, Hebbal, Bannimantap, Belavatta","JSS Dental College, Hanumanth Nagar, Landmark Hospital",Regular
+2 Series (20-29),Corridor / Suburb Connection,City Bus Stand (CBS),"Srirampura, BEML Nagar, Gokulam, Devagalli","Hoysala Circle, Surya Bakery, Ashoka Circle",Regular
+3 Series (30-39),Corridor / Suburb Connection,City Bus Stand (CBS),"Bogadi, Hinkal, Vijayanagar","Sangam Bhandar, Hinkal Flyover, Aishwarya Petrol Bunk",Regular
+4 & 5 Series,Corridor / Suburb Connection,City Bus Stand (CBS),"Bannimantap, Ramakrishna Nagar","Orchid School, St. Joseph's School",Regular
+6 to 8 Series,Corridor / Suburb Connection,City Bus Stand (CBS),"Kuvempunagar, Vivekananda Circle, RTO","Andolana Circle, JSS Hospital",Regular
+9 & 10 Series,Corridor / Suburb Connection,City Bus Stand (CBS),"J.P. Nagar, Chamundivana, MIT College","Amruth Bakery, J.P. Nagar Last Stop",Regular
+11 to 17 Series,Corridor / Suburb Connection,City Bus Stand (CBS),"Alanahalli, Dattagalli, Rajiv Nagar, Hale Kesare","Maramma Temple, Forum/Nexus Mall",Regular
+201,Tourist / Landmark,City Bus Stand (CBS),Chamundi Hill Temple,Mysuru Zoo,High (Every 15 mins)
+303 / 303P,Tourist / Landmark,City Bus Stand (CBS),Brindavan Gardens / KRS Dam,"Belawadi, Hinkal",High (Every 20 mins)
+150,Tourist / Landmark,City Bus Stand (CBS),Siddhartha Nagar,"Mysuru Zoo, Karanji Lake",Regular
+119,Institutional / Tech Park,City Bus Stand (CBS),Infosys Campus / Hebbal Electronic City,Hebbal,Regular
+80 / 81,Corridor Connection,City Bus Stand (CBS),Kuvempunagar & Vivekananda Circle,"Agrahara, Ballal Circle",Regular
+ORR Clockwise,Outer Ring Road (Peripheral),Peripheral Hubs,Circular Network (Clockwise),"Bogadi, Hinkal, Vijayanagar, Hebbal, Satagalli, Alanahalli, J.P. Nagar, Dattagalli",Periodic
+ORR Counter-Clockwise,Outer Ring Road (Peripheral),Peripheral Hubs,Circular Network (Counter-Clockwise),"Dattagalli, J.P. Nagar, Alanahalli, Satagalli, Hebbal, Vijayanagar, Hinkal, Bogadi",Periodic
