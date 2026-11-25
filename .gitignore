@@ -4,5 +4,15 @@ dist/
 coverage/
 .DS_Store
 *.log
+
+# Environment files
 .env*
 !.env.example
+
+# Python backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.db
+backend/.env
+backend/.env.*
